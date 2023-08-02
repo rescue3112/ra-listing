@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/u8hwlrsphlota2lq?svg=true)](https://ci.appveyor.com/project/rescue3112/ra-listing)
 
 https://rescue3112.github.io/ra-listing/
 
